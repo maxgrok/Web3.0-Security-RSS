@@ -3,7 +3,7 @@ Introduction: RSS subscriptions related to Web3.0 Security, helping to establish
 
 ## Reeder5 (macOS, iOS)
 
-import OMPL into Reeder: Subcsriptions -> Add subscription -> Import form OPML.
+import OMPL into Reeder: Subscriptions -> Add subscription -> Import form OPML.
 
 ![](usage.png)
 
